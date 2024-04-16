@@ -1,4 +1,5 @@
 # Markdown Test😶
+[Github flavored Markdown Spec](https://github.github.com/gfm/)
 ### My personal repository
 ### Heading H1
 ## Heading H2
@@ -70,8 +71,47 @@ or email: <abc@abc.com>
 |     1| C             |
 |     2| Python        |
 |     3| SQL           |
+
 <!--Example of a comment -->
 </details>
+</details>
+</details>
+</br>
+
+|Command|Description|
+|---|---|
+|'git status'|List all *new* files|
+|'git diff'|Show file defferences that **haven't been** stages|
+</br>
+
+|Left-aligned⬅️|Centered-aligned😇|Right_aligned➡️|
+|:---|:---:|---:|
+|On the left|At the center|On the right|
+
+</br>
+
+<!-- leave blank space -->
+<!--This is a fenced code blocks-->
+```mermaid
+pie
+"JS" : 60
+"CSS" : 30
+"HTML" : 10
+```
+</br>
+
+```mermaid
+graph TD;
+  Alice-->Bob;
+  Charlie-->Bob;
+  Bob-->Alice;
+```
+</br>
+
+```C
+#include <stdio.h>
+printf("Hello, world!");
+```
 
 
 
