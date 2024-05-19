@@ -1,11 +1,3 @@
----
-slideOptions:
-    transition: slide
-    spotlight:
-        enabled: true
----
-
-[TOC]
 # Week 4 - [Memory](https://cs50.harvard.edu/x/2024/weeks/4/)
 
 * Lecture
